@@ -1,0 +1,8 @@
+Flask==1.0.2
+googleads
+google-cloud-storage
+google-cloud-bigquery
+gcsfs
+pandas
+pandas_gbq
+pyarrow

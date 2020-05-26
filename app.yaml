@@ -1,0 +1,5 @@
+service: sea-google-shopping-performance-report-api
+runtime: python37
+instance_class: B8
+basic_scaling:
+        instances: 5 
